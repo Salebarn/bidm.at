@@ -1,6 +1,10 @@
 # Bidm.at
 
-Bid.at is a robot with an objective that is similar to that of [WikiBuy](https://wikibuy.com/blog/is-amazon-actually-giving-you-the-best-price-95f2a16c69fa) of checking thousands of marketplaces and various listings and, beyond ordinary inducements like affliate marketing [to support free content], coupons, loyalty programs, time-bound deals and promo codes, using chat and messaging to establish and maintain better relationships with good vendors to negotiate a more exact fit, a more valuable option, a better price.
+Bid.at is a robot with an objective that is somewhat similar to that of [WikiBuy](https://wikibuy.com/blog/is-amazon-actually-giving-you-the-best-price-95f2a16c69fa) of checking thousands of marketplaces and various listings and, beyond ordinary inducements like affliate marketing [to support free content], coupons, loyalty programs, time-bound deals and promo codes, using chat and messaging to establish and maintain better relationships with good vendors to negotiate a more exact fit, a more valuable option, a better price. 
+
+In other words, the point of Bidm.at is more efficient, accelerated negotiation and sustained relationships with solid vendors -- the implementation Bidm.at depends upon a decentralized, encrypted, anonymous, offline messaging platform using the git distributed version control system to provide encrypted negotiation chat or messaging in a manner similar to [DaveMail](https://github.com/davidapple/davemail). 
+
+The mutually beneficial nature of secure, meaningful, specific product conversations or negotiations with an integrated reputation management system means that sellers have a strong incentive to list their "marketplace" or website and data APIs with the Bidm.at directory ... but since sellers also rate buyers, buyers have an incentive to be forthright, honest and genuine in their negotiatons.
 
 ## Hubot
 
